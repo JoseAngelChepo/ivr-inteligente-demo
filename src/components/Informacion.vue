@@ -3,7 +3,7 @@
     .col.s12.m7
       .card
         .card-image
-          img(src='http://res.cloudinary.com/helpo/image/upload/v1510644986/card_image_aiolo5.jpg')
+          img(src='dist/card_image.jpg')
           span.card-title Información de tus operaciones
         .card-content
           p En está sección estará disponible la información de las operaciones
