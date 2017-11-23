@@ -2,7 +2,7 @@
   .container
     .row
       .menu.col.s12
-        img(src="dist/logo_menu.png", width="200")
+        img(src="dist/logo_menu_m.png", width="200")
         h4 OPCIONES DEL MENU PRINCIPAL
         router-link(to="/Informacion", class="waves-effect waves-light btn") INFORMACIÓN DE TUS OPERACIONES
         router-link(to="/Config", class="waves-effect waves-light btn") CONFIGURACIÓN DE ALERTAS
